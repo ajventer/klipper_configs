@@ -1918,3 +1918,40 @@ utils.ServerError: Klippy Host not connected
 2022-10-29 10:38:50,379 [job_state.py:_handle_started()] - Job state initialized: standby
 2022-10-29 10:38:50,644 [klippy_connection.py:_check_ready()] - Klippy ready
 2022-10-29 10:38:51,141 [data_store.py:_init_sensors()] - Configuring available sensors: ['heater_bed', 'extruder']
+2022-10-29 10:42:49,956 [file_manager.py:complete_file_write()] - Invalid file write event: tmp_obj_oHQ4Fe
+2022-10-29 10:45:19,108 [job_state.py:_status_update()] - Job Started: CE5_xyzCalibration_cube.gcode
+2022-10-29 10:52:59,731 [klippy_connection.py:_process_status_update()] - Klippy has shutdown
+2022-10-29 10:52:59,735 [proc_stats.py:_handle_shutdown()] - 
+Moonraker System Usage Statistics:
+System Time: 1667033550.503365, Usage: 3.81%, Memory: 26668 kB
+System Time: 1667033551.504117, Usage: 1.85%, Memory: 26668 kB
+System Time: 1667033552.504972, Usage: 3.04%, Memory: 26668 kB
+System Time: 1667033553.505347, Usage: 1.93%, Memory: 26668 kB
+System Time: 1667033554.507317, Usage: 3.2%, Memory: 26668 kB
+System Time: 1667033555.508361, Usage: 1.88%, Memory: 26668 kB
+System Time: 1667033556.509127, Usage: 3.01%, Memory: 26668 kB
+System Time: 1667033557.510088, Usage: 1.85%, Memory: 26668 kB
+System Time: 1667033558.510684, Usage: 3.14%, Memory: 26668 kB
+System Time: 1667033559.513241, Usage: 5.15%, Memory: 26668 kB
+System Time: 1667033560.513123, Usage: 3.47%, Memory: 26668 kB
+System Time: 1667033561.514267, Usage: 1.87%, Memory: 26668 kB
+System Time: 1667033562.515027, Usage: 3.04%, Memory: 26668 kB
+System Time: 1667033563.516253, Usage: 2.04%, Memory: 26668 kB
+System Time: 1667033564.518106, Usage: 3.57%, Memory: 26668 kB
+System Time: 1667033565.519049, Usage: 2.11%, Memory: 26668 kB
+System Time: 1667033566.520235, Usage: 3.44%, Memory: 26668 kB
+System Time: 1667033567.523679, Usage: 2.06%, Memory: 26668 kB
+System Time: 1667033568.522461, Usage: 3.72%, Memory: 26668 kB
+System Time: 1667033569.524138, Usage: 5.07%, Memory: 26668 kB
+System Time: 1667033570.524598, Usage: 3.67%, Memory: 26668 kB
+System Time: 1667033571.526742, Usage: 1.93%, Memory: 26668 kB
+System Time: 1667033572.526479, Usage: 2.98%, Memory: 26668 kB
+System Time: 1667033573.527405, Usage: 1.87%, Memory: 26668 kB
+System Time: 1667033574.527700, Usage: 3.05%, Memory: 26668 kB
+System Time: 1667033575.525030, Usage: 1.73%, Memory: 26668 kB
+System Time: 1667033576.528991, Usage: 1.73%, Memory: 26668 kB
+System Time: 1667033577.530357, Usage: 1.88%, Memory: 26668 kB
+System Time: 1667033578.530791, Usage: 3.14%, Memory: 26668 kB
+System Time: 1667033579.529093, Usage: 4.99%, Memory: 26668 kB
+CPU Temperature: 37.972
+2022-10-29 10:52:59,747 [proc_stats.py:_handle_shutdown()] - Throttled Flags: 
