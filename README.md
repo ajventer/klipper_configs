@@ -3,7 +3,7 @@ M997
 
 sudo dfu-util -a 0 -s 0x8000000:leave -D firmware.bin
 
-
+```
 EEPROM backup:
 Recv: echo:  G21    ; Units in mm (mm)
 Recv: 
@@ -53,3 +53,4 @@ Recv: echo:  M301 P14.58 I1.14 D46.57
 Recv: echo:  M304 P62.75 I9.39 D279.43
 Recv: echo:; Z-Probe Offset (mm):
 Recv: echo:  M851 X27.25 Y-12.80 Z-1.07
+```
