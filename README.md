@@ -1,6 +1,4 @@
-# klipper_configs for 
-ender 5 Pro
-V4.2.2
-MicroSwiss Direct Drive
-CRTouch
-Filament runout sensor
+Marlin update for X2
+M997
+
+sudo dfu-util -a 0 -s 0x8000000:leave -D firmware.bin
